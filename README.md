@@ -95,6 +95,32 @@
     </tr>
 </table>
 </div>
+
+```c
+#include <stdbool.h>
+
+int  main(void)
+{
+    struct  about_me jandrana = {
+      .name = "Ana Alejandra Castillejo",
+      .pronouns = {"she", "her"},
+      .age = 21,
+      .student = true,
+      .hired = false,
+      .contact = "yo@anaalejandra.com"
+    };
+
+    struct  student my_studies = {
+      .is_student = true,
+      .status = {"42 Student", "Codecademy", "HackTheBox", "LeetCode"},
+      .campus_42 = "Málaga",
+      .login_42 = "ana-cast",
+      .codecademy_url = "https://www.codecademy.com/profiles/jandrana"
+    };
+
+    return (0);
+}
+```
 <!--
 **miguelfdez03/miguelfdez03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
