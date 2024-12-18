@@ -67,6 +67,8 @@ int  main(void)
                 alt="CSS3">
           <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
                 alt="JavaScript">
+            <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
+                alt="Flutter">
         </td>
     </tr>
     <tr>
