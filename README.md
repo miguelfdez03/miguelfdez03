@@ -46,12 +46,12 @@
     <tr>
         <td>Operating Systems</td>
         <td>
+            <img src="https://img.shields.io/badge/Linux-eaaf02?logo=linux&logoColor=fff&style=for-the-badge"
+                alt="Linux">
             <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"
                 alt="macOS">
             <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
                 alt="Windows">
-            <img src="https://img.shields.io/badge/Linux-eaaf02?logo=linux&logoColor=fff&style=for-the-badge"
-                alt="Linux">
             <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge"
                 alt="Ubuntu">
         </td>
@@ -67,7 +67,7 @@
                 alt="VirtualBox">
           <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" 
                 alt="Docker">
-          <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
                 alt="Postman">
             <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
                 alt="IntelliJ IDEA">
