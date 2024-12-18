@@ -15,20 +15,18 @@
 
 int  main(void)
 {
-    struct  about_me jandrana = {
-      .name = "Ana Alejandra Castillejo",
-      .pronouns = {"she", "her"},
+    struct  about_me miguelfdez03 = {
+      .name = "Miguel Ángel Fernández Muñoz",
       .age = 21,
       .student = true,
-      .hired = false,
-      .contact = "yo@anaalejandra.com"
+      .contact = "miguelfm03@gmail.com"
     };
 
     struct  student my_studies = {
       .is_student = true,
-      .status = {"42 Student", "Codecademy", "HackTheBox", "LeetCode"},
+      .status = {"42 Student", "Desarrollo de Aplicaciones Multiplataforma", "Tecnico en sistemas microinformaticos"},
       .campus_42 = "Málaga",
-      .login_42 = "ana-cast",
+      .login_42 = "miguel-f",
       .codecademy_url = "https://www.codecademy.com/profiles/jandrana"
     };
 
