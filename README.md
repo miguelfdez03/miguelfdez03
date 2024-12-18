@@ -25,10 +25,9 @@ int  main(void)
     struct  student my_studies = {
       .is_student = true,
       .status = {"42 Student", "Desarrollo de Aplicaciones Multiplataforma",
-      "Tecnico en sistemas microinformaticos"},
+                   "Tecnico en sistemas microinformaticos"},
       .campus_42 = "Málaga",
       .login_42 = "miguel-f",
-      .codecademy_url = "https://www.codecademy.com/profiles/jandrana"
     };
 
     return (0);
