@@ -33,6 +33,8 @@
                 alt="C">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
                 alt="Python">
+            <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+                alt="React Native">
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
                 alt="HTML5">
             <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
@@ -44,14 +46,12 @@
     <tr>
         <td>Operating Systems</td>
         <td>
-            <img src="https://img.shields.io/badge/Linux-eaaf02?logo=linux&logoColor=fff&style=for-the-badge"
-                alt="Linux">
             <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"
                 alt="macOS">
             <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
                 alt="Windows">
-            <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge"
-                alt="Debian">
+            <img src="https://img.shields.io/badge/Linux-eaaf02?logo=linux&logoColor=fff&style=for-the-badge"
+                alt="Linux">
             <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge"
                 alt="Ubuntu">
         </td>
@@ -67,15 +67,17 @@
                 alt="VirtualBox">
           <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" 
                 alt="Docker">
-          <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge"
-                alt="GNU Bash">
+          <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+                alt="Postman">
+            <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
+                alt="IntelliJ IDEA">
         </td>
     </tr>
         <tr>
         <td>Project Documentation</td>
         <td>
-            <img src="https://img.shields.io/badge/markdown-000000?logo=markdown&logoColor=fff&style=for-the-badge" 
-                alt="Markdown">
+            <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" 
+                alt="Figma">
             <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge"
                 alt="Notion">
         </td>
