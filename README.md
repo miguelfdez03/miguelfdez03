@@ -7,7 +7,18 @@
 <div align="center" >
     <a href="https://www.linkedin.com/in/miguelfdezmunoz/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Miguel--Fdez-white?style=for-the-badge&logo=42&logoColor=black"></a>
-</div><br>
+</div>
+<br>
+<h3>⚡️ GitHub Stats</h3>
+<div align="center">
+  <a href=""><img alt="Static Badge" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaLucena&theme=transparent"></a>
+  <a href=""><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaLucena&theme=transparent" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PaLucena&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+<h3>🔩 Skills</h3>
+<div align="center">
 
 <!--
 **miguelfdez03/miguelfdez03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
