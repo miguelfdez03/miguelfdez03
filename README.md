@@ -9,8 +9,6 @@
     <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Miguel--Fdez-white?style=for-the-badge&logo=42&logoColor=black"></a>
 </div>
 
-<br>
-
 <h3>🔩 Skills</h3>
 <div align="center">
 <table>
