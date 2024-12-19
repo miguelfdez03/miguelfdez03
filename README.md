@@ -49,8 +49,8 @@ int  main(void)
         <th></th>
         <th>Experience with</th>
     </tr>
-    <tr>
-        <td>Languages</td>
+     <tr>
+        <td>Back-End</td>
         <td>
              <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
                 alt="Java">
@@ -58,6 +58,13 @@ int  main(void)
                 alt="C">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
                 alt="Python">
+            <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
+                alt="Flutter">
+        </td>
+    </tr>
+    <tr>
+        <td>Front-End</td>
+        <td>
             <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
                 alt="React Native">
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -66,8 +73,6 @@ int  main(void)
                 alt="CSS3">
           <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
                 alt="JavaScript">
-            <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
-                alt="Flutter">
         </td>
     </tr>
     <tr>
@@ -98,6 +103,10 @@ int  main(void)
                 alt="Postman">
             <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
                 alt="IntelliJ IDEA">
+            <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"
+                alt="Android Studio">
+            <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)"
+                alt="Raspberry Pi">
         </td>
     </tr>
         <tr>
@@ -105,6 +114,8 @@ int  main(void)
         <td>
             <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" 
                 alt="Figma">
+            <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"
+                alt="Swagger">
             <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge"
                 alt="Notion">
         </td>
@@ -114,8 +125,6 @@ int  main(void)
         <td>
             <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge"
                 alt="WordPress">
-            <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge"
-                alt="Bootstrap">
           <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
                 alt="Node.js">
         </td>
