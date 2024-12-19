@@ -8,40 +8,9 @@
     <a href="https://www.linkedin.com/in/miguelfdezmunoz/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Miguel--Fdez-white?style=for-the-badge&logo=42&logoColor=black"></a>
 </div>
-<br>
-
-```c
-#include <stdbool.h>
-
-int  main(void)
-{
-    struct  about_me miguelfdez03 = {
-      .name = "Miguel Ángel Fernández Muñoz",
-      .age = 21,
-      .student = true,
-      .contact = "miguelfm03@gmail.com"
-    };
-
-    struct  student my_studies = {
-      .is_student = true,
-      .status = {"42 Student", "Desarrollo de Aplicaciones Multiplataforma",
-      "Tecnico en sistemas microinformaticos"},
-      .campus_42 = "Málaga",
-      .login_42 = "miguel-f",
-    };
-
-    return (0);
-}
-```
-<br>
-<h3>⚡️ GitHub Stats</h3>
-<div align="center">
-  <a href=""><img alt="Static Badge" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelfdez03&theme=transparent"></a>
-  <a href=""><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelfdez03&theme=transparent" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miguelfdez03&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <br>
+
 <h3>🔩 Skills</h3>
 <div align="center">
 <table>
@@ -50,15 +19,38 @@ int  main(void)
         <th>Experience with</th>
     </tr>
      <tr>
+             <tr>
+        <td>Tools and Platforms</td>
+        <td>
+            <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" 
+                alt="Git">
+            <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=fff&style=for-the-badge" 
+                alt="GitHub">
+            <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge"
+                alt="VirtualBox">
+          <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" 
+                alt="Docker">
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+                alt="Postman">
+            <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
+                alt="IntelliJ IDEA">
+            <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"
+                alt="Android Studio">
+            <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)"
+                alt="Raspberry Pi">
+        </td>
+    </tr>
         <td>Back-End</td>
         <td>
              <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
                 alt="Java">
+            <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
+                alt="Spring">
             <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"
                 alt="C">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
                 alt="Python">
-            <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
+             <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
                 alt="Flutter">
         </td>
     </tr>
@@ -88,27 +80,6 @@ int  main(void)
                 alt="Ubuntu">
         </td>
     </tr>
-    <tr>
-        <td>Tools and Platforms</td>
-        <td>
-            <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" 
-                alt="Git">
-            <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=fff&style=for-the-badge" 
-                alt="GitHub">
-            <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge"
-                alt="VirtualBox">
-          <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" 
-                alt="Docker">
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
-                alt="Postman">
-            <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
-                alt="IntelliJ IDEA">
-            <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"
-                alt="Android Studio">
-            <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)"
-                alt="Raspberry Pi">
-        </td>
-    </tr>
         <tr>
         <td>Project Documentation</td>
         <td>
@@ -129,8 +100,55 @@ int  main(void)
                 alt="Node.js">
         </td>
     </tr>
+       <tr>
+        <td>Bases de Datos</td>
+        <td>
+            <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
+                alt="MySql">
+          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+                alt="Postgres">
+            <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+                alt="MongoDb">
+            <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"
+                alt="Firebase">
+        </td>
+    </tr>
 </table>
 </div>
+
+<br>
+<h3>⚡️ GitHub Stats</h3>
+<div align="center">
+  <a href=""><img alt="Static Badge" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelfdez03&theme=transparent"></a>
+  <a href=""><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelfdez03&theme=transparent" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miguelfdez03&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+```c
+#include <stdbool.h>
+
+int  main(void)
+{
+    struct  about_me miguelfdez03 = {
+      .name = "Miguel Ángel Fernández Muñoz",
+      .age = 21,
+      .student = true,
+      .contact = "miguelfm03@gmail.com"
+    };
+
+    struct  student my_studies = {
+      .is_student = true,
+      .status = {"42 Student", "Desarrollo de Aplicaciones Multiplataforma",
+      "Tecnico en sistemas microinformaticos"},
+      .campus_42 = "Málaga",
+      .login_42 = "miguel-f",
+    };
+
+    return (0);
+}
+```
 
 <!--
 **miguelfdez03/miguelfdez03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
