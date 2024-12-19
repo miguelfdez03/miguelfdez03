@@ -119,9 +119,9 @@
 <br>
 <h3>⚡️ GitHub Stats</h3>
 <div align="center">
-  <a href=""><img alt="Static Badge" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelfdez03&theme=transparent"></a>
-  <a href=""><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelfdez03&theme=transparent" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miguelfdez03&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <a href=""><img alt="Static Badge" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelfdez03&theme=dark"></a>
+  <a href=""><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelfdez03&theme=dark" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miguelfdez03&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 <br>
