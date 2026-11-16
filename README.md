@@ -6,8 +6,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/miguelfdezmunoz/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/42_Málaga-miguel--f-white?style=for-the-badge&logo=42&logoColor=black"></a>
-    <a href="mailto:miguelfm03@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/Miguel--F-white?style=for-the-badge&logo=42&logoColor=black"></a>
 </div>
 
 ---
